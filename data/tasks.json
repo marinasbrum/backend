@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "descricao": "Somar primos até 50",
+    "inicio": 1,
+    "fim": 50,
+    "status": "CONCLUIDA",
+    "resultado": [
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 2,
+    "descricao": "Contar pares",
+    "inicio": 1,
+    "fim": 50,
+    "status": "EM_ANDAMENTO",
+    "resultado": null
+  }
+]
